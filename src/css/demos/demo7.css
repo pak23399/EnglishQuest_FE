@@ -1,0 +1,25 @@
+@layer components {
+
+    /* Variables */
+    .demo7 {
+        --header-height-default: 95px;
+        --header-height: 60px;
+        --header-height-mobile: 70px;
+    }
+
+    @media (max-width: theme(--breakpoint-lg)) {
+        .demo7 {
+            --header-height: var(--header-height-mobile);
+        }
+    }
+
+    /* Base header styles for demo7 */
+    .demo7 .header {
+        transition: height 0.3s ease;
+    }
+
+    /* Sticky header behavior */
+    body[data-sticky-header='on'] .header {
+        height: var(--header-height);
+    }
+}

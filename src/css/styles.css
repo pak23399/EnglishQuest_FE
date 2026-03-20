@@ -1,0 +1,135 @@
+/* Tailwind Core */
+@import 'tailwindcss';
+
+/* ReUI Configs */
+@import './config.reui.css';
+
+/** Global Styles **/
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  *:focus-visible {
+    @apply outline-ring rounded-xs shadow-none outline-2 outline-offset-3 transition-none;
+  }
+}
+
+/** Global Themes **/
+@theme {
+  --color-destructive: #f8285a;
+  --color-destructive-active: #d81a48;
+  --color-destructive-clarity-20: #f8285a33;
+  --color-destructive-clarity-50: #f8285a80;
+  --color-destructive-light: #ffeef3;
+
+  --color-success: #17c653;
+  --color-success-active: #04b440;
+  --color-success-clarity-20: #17c65333;
+  --color-success-clarity-50: #17c65380;
+  --color-success-light: #eafff1;
+
+  --color-warning: #f6b100;
+  --color-warning-active: #dfa000;
+  --color-warning-clarity-20: #f6b10033;
+  --color-warning-clarity-50: #f6b10080;
+  --color-warning-light: #fff8dd;
+
+  --height-sheet: 93vh;
+
+  --height-dialog: 90vh;
+
+  --height-illustration: 128px;
+
+  --container-small-menu: 210px;
+  --container-form-card: 38.75rem;
+}
+
+/* Metronic Components  */
+@import './components/image-input.css';
+@import './components/apexcharts.css';
+@import './components/leaflet.css';
+@import './components/rating.css';
+@import './components/image-input.css';
+@import './components/scrollable.css';
+
+/* Custom Components */
+@import './components/condition-card.css';
+
+/* Demos */
+@import './demos/demo1.css';
+@import './demos/demo7.css';
+
+/** Dark/Light Theme Variant **/
+@custom-variant dark (&:is(.dark *));
+@custom-variant light (&:not(.dark *));
+
+@layer component {
+  .text-description {
+    @apply text-secondary-foreground text-sm font-normal;
+  }
+
+  .small-info-card {
+    @apply w-[230px];
+  }
+
+  .medium-info-card {
+    @apply w-[400px];
+  }
+
+  .table-rows-count {
+    @apply text-secondary-foreground text-sm;
+  }
+
+  .table-title-small {
+    @apply text-base font-semibold;
+  }
+
+  .separator {
+    @apply border-b-border border-b;
+  }
+
+  .vertical-separator {
+    @apply border-r-border my-1 self-stretch border-r;
+  }
+
+  .detail-table {
+    @apply text-muted-foreground align-middle text-sm;
+  }
+
+  .detail-table-label {
+    @apply text-secondary-foreground w-[180px] py-4 align-text-top font-normal;
+  }
+
+  .detail-table-content {
+    @apply text-foreground min-w-32 text-sm font-normal;
+  }
+
+  .detail-table-content .vertical {
+    @apply flex flex-col justify-start gap-y-5;
+  }
+
+  .detail-table-sub-content {
+    @apply text-secondary-foreground flex min-w-32 flex-wrap gap-y-2.5 text-sm font-normal;
+  }
+
+  .tabs-with-scroll {
+    @apply max-h-[calc(100vh-10.5rem-2.6rem)];
+  }
+
+  .form-item-row {
+    @apply flex flex-row items-center gap-x-5;
+  }
+
+  .single-card {
+    @apply lg:w-[660px];
+  }
+
+  .home-title {
+    @apply text-primary text-xl font-bold;
+  }
+
+  .table-header {
+    @apply !text-secondary-foreground !h-10 !font-normal;
+  }
+}

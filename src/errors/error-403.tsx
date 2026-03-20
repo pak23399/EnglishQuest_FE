@@ -1,0 +1,42 @@
+import { Fragment } from 'react/jsx-runtime';
+import { Link } from 'react-router-dom';
+import { toAbsoluteUrl } from '@/lib/helpers';
+import { Badge } from '@/components/ui/badge';
+import { Button } from '@/components/ui/button';
+
+export function Error403() {
+  return (
+    <Fragment>
+      <div className="mb-10">
+        <img
+          src={toAbsoluteUrl('/media/illustrations/20.svg')}
+          className="dark:hidden max-h-[160px]"
+          alt="image"
+        />
+        <img
+          src={toAbsoluteUrl('/media/illustrations/20-dark.svg')}
+          className="light:hidden max-h-[160px]"
+          alt="image"
+        />
+      </div>
+
+      <Badge variant="destructive" appearance="outline" className="mb-3">
+        403 Error
+      </Badge>
+
+      <h3 className="text-2xl font-semibold text-mono text-center mb-2">
+        Access Forbidden
+      </h3>
+
+      <div className="text-base text-center text-secondary-foreground mb-10">
+        You don't have permission to access this resource.
+        <br />
+        Please contact your administrator if you believe this is an error.
+      </div>
+
+      <Button asChild>
+        <Link to="/">Back to Home</Link>
+      </Button>
+    </Fragment>
+  );
+}
