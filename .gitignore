@@ -1,0 +1,11 @@
+/node_modules
+/dist
+/.idea
+
+# misc
+.DS_Store
+.env
+
+# github
+.github/copilot-instructions.md
+.github/instructions/
