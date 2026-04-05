@@ -55,7 +55,7 @@ export function AuthProvider({ children }: PropsWithChildren) {
 
       // Decode user data from JWT token
       const decoded = jwtDecode(response.access_token) as any;
-
+      
       // Create user object from JWT payload
       // Role can be a single value or an array
       // Admin users have role: ["2", "1"], regular users have role: ["2"]
