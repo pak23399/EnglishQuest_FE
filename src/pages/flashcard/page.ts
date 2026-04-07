@@ -1,0 +1,1 @@
+export { FlashcardPage } from './index';
