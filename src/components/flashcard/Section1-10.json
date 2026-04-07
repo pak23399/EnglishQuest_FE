@@ -1,0 +1,3473 @@
+[
+    {
+        "sectionId": "section-01-hello-english",
+        "sectionTitle": "Hello, English!",
+        "sectionDescription": "Introduce basic greetings, simple self-introduction, classroom words, and short spoken phrases. Focus on listening, recognition, and confidence.",
+        "levels": [
+            {
+                "levelTitle": "Hello & Goodbye",
+                "levelDescription": "Learn how to greet people and say goodbye politely.",
+                "questions": [
+                    {
+                        "type": 1,
+                        "text": "Hello, my name ___ Tom.",
+                        "options": [
+                            "am",
+                            "is",
+                            "are"
+                        ],
+                        "correctAnswer": "is",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 2,
+                        "text": "What does 'Hello' mean?",
+                        "options": [
+                            "A greeting",
+                            "A goodbye",
+                            "A question"
+                        ],
+                        "correctAnswer": "A greeting",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Select the correct greeting.",
+                        "options": [
+                            "Good morning!",
+                            "Good morning you!",
+                            "Morning good!"
+                        ],
+                        "correctAnswer": "Good morning!",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 5,
+                        "text": "Tap the words you hear.",
+                        "options": [
+                            "hello",
+                            "my",
+                            "name",
+                            "is",
+                            "book"
+                        ],
+                        "correctAnswer": "hello my name is",
+                        "audioUrl": "https://cdn.example.com/audio/hello_my_name_is.mp3",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which phrase is used to say goodbye?",
+                        "options": [
+                            "See you later",
+                            "How are you",
+                            "Good morning"
+                        ],
+                        "correctAnswer": "See you later",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "English Sounds",
+                "levelDescription": "Recognize basic alphabet sounds and simple phonics.",
+                "questions": [
+                    {
+                        "type": 6,
+                        "text": "Which letter makes the /b/ sound?",
+                        "options": [
+                            "A",
+                            "B",
+                            "C"
+                        ],
+                        "correctAnswer": "B",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 5,
+                        "text": "Tap the word you hear.",
+                        "options": [
+                            "cat",
+                            "sun",
+                            "apple"
+                        ],
+                        "correctAnswer": "cat",
+                        "audioUrl": "https://cdn.example.com/audio/cat.mp3",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 2,
+                        "text": "Which word starts with the sound /k/?",
+                        "options": [
+                            "cat",
+                            "dog",
+                            "fish"
+                        ],
+                        "correctAnswer": "cat",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 8,
+                        "text": "Match the sound to the word.",
+                        "options": [
+                            "b → ball",
+                            "c → dog",
+                            "a → sun"
+                        ],
+                        "correctAnswer": "b → ball",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 9,
+                        "text": "Put the letters in order.",
+                        "options": [
+                            "A",
+                            "B",
+                            "C"
+                        ],
+                        "correctAnswer": "A B C",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "My Name Is...",
+                "levelDescription": "Introduce yourself using simple sentences.",
+                "questions": [
+                    {
+                        "type": 1,
+                        "text": "I ___ Lan.",
+                        "options": [
+                            "am",
+                            "is",
+                            "are"
+                        ],
+                        "correctAnswer": "am",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "I am a student.",
+                            "I student am.",
+                            "Am I student."
+                        ],
+                        "correctAnswer": "I am a student.",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 2,
+                        "text": "What does 'Nice to meet you' mean?",
+                        "options": [
+                            "Happy to meet you",
+                            "Go away",
+                            "I don’t know"
+                        ],
+                        "correctAnswer": "Happy to meet you",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 4,
+                        "text": "Complete the pattern.",
+                        "pattern": {
+                            "baseSentence": "I am a teacher.",
+                            "exampleSentence": "I am a student.",
+                            "questionSentence": "I am a ___ ."
+                        },
+                        "options": [
+                            "student",
+                            "run",
+                            "blue"
+                        ],
+                        "correctAnswer": "student",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 5,
+                        "text": "Tap the words you hear.",
+                        "options": [
+                            "I",
+                            "am",
+                            "a",
+                            "student",
+                            "teacher"
+                        ],
+                        "correctAnswer": "I am a student",
+                        "audioUrl": "https://cdn.example.com/audio/i_am_a_student.mp3",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Classroom Friends",
+                "levelDescription": "Learn words for people and objects in the classroom.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What is a teacher?",
+                        "options": [
+                            "A person who teaches",
+                            "A book",
+                            "A desk"
+                        ],
+                        "correctAnswer": "A person who teaches",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "This is my ___. (pen)",
+                        "options": [
+                            "pen",
+                            "run",
+                            "red"
+                        ],
+                        "correctAnswer": "pen",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Select the correct sentence.",
+                        "options": [
+                            "She is my teacher.",
+                            "She my teacher is.",
+                            "Teacher she my is."
+                        ],
+                        "correctAnswer": "She is my teacher.",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 5,
+                        "text": "Tap the word you hear.",
+                        "options": [
+                            "book",
+                            "bag",
+                            "chair"
+                        ],
+                        "correctAnswer": "book",
+                        "audioUrl": "https://cdn.example.com/audio/book.mp3",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 8,
+                        "text": "Match the word with its meaning.",
+                        "options": [
+                            "pen → write",
+                            "chair → eat",
+                            "book → sleep"
+                        ],
+                        "correctAnswer": "pen → write",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Let's Say It Together",
+                "levelDescription": "Practice simple phrases and responses through repetition.",
+                "questions": [
+                    {
+                        "type": 5,
+                        "text": "Tap the words you hear.",
+                        "options": [
+                            "how",
+                            "are",
+                            "you",
+                            "bye"
+                        ],
+                        "correctAnswer": "how are you",
+                        "audioUrl": "https://cdn.example.com/audio/how_are_you.mp3",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "What is the best reply to 'How are you?'",
+                        "options": [
+                            "I'm fine, thank you.",
+                            "Goodbye!",
+                            "Yes, I am."
+                        ],
+                        "correctAnswer": "I'm fine, thank you.",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "How ___ you?",
+                        "options": [
+                            "are",
+                            "is",
+                            "am"
+                        ],
+                        "correctAnswer": "are",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 7,
+                        "text": "True or False: 'Hello' and 'Goodbye' have the same meaning.",
+                        "options": [
+                            "True",
+                            "False"
+                        ],
+                        "correctAnswer": "False",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 9,
+                        "text": "Put the words in order.",
+                        "options": [
+                            "thank",
+                            "you"
+                        ],
+                        "correctAnswer": "thank you",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "sectionId": "section-02-my-world",
+        "sectionTitle": "My World",
+        "sectionDescription": "Learners talk about familiar things such as family, toys, colors, numbers, and personal belongings using very simple sentences.",
+        "levels": [
+            {
+                "levelTitle": "My Family",
+                "levelDescription": "Learn basic family words and talk about family members.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'mother' mean?",
+                        "options": [
+                            "Mom",
+                            "Brother",
+                            "Teacher"
+                        ],
+                        "correctAnswer": "Mom",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "She is my ___. (dad)",
+                        "options": [
+                            "father",
+                            "sister",
+                            "friend"
+                        ],
+                        "correctAnswer": "father",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Select the correct sentence.",
+                        "options": [
+                            "She is my mother.",
+                            "She my mother is.",
+                            "Mother she is my."
+                        ],
+                        "correctAnswer": "She is my mother.",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Who is your father's daughter?",
+                        "options": [
+                            "Sister",
+                            "Brother",
+                            "Uncle"
+                        ],
+                        "correctAnswer": "Sister",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 5,
+                        "text": "Tap the word you hear.",
+                        "options": [
+                            "mother",
+                            "father",
+                            "sister"
+                        ],
+                        "correctAnswer": "sister",
+                        "audioUrl": "https://cdn.example.com/audio/sister.mp3",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "My Toys",
+                "levelDescription": "Name common toys and say what you have.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What is a 'ball'?",
+                        "options": [
+                            "A toy you can throw",
+                            "A book",
+                            "A desk"
+                        ],
+                        "correctAnswer": "A toy you can throw",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "I have a ___. (doll)",
+                        "options": [
+                            "doll",
+                            "run",
+                            "red"
+                        ],
+                        "correctAnswer": "doll",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "I have a toy car.",
+                            "I toy car have.",
+                            "Have I toy car."
+                        ],
+                        "correctAnswer": "I have a toy car.",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which one is a toy?",
+                        "options": [
+                            "Teddy bear",
+                            "Teacher",
+                            "School"
+                        ],
+                        "correctAnswer": "Teddy bear",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 5,
+                        "text": "Tap the toy you hear.",
+                        "options": [
+                            "ball",
+                            "book",
+                            "pen"
+                        ],
+                        "correctAnswer": "ball",
+                        "audioUrl": "https://cdn.example.com/audio/ball.mp3",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Colors Around Me",
+                "levelDescription": "Recognize and use basic color words.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What color is grass?",
+                        "options": [
+                            "Green",
+                            "Red",
+                            "Blue"
+                        ],
+                        "correctAnswer": "Green",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "The apple is ___.",
+                        "options": [
+                            "red",
+                            "eat",
+                            "run"
+                        ],
+                        "correctAnswer": "red",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Select the correct sentence.",
+                        "options": [
+                            "The ball is blue.",
+                            "Ball is blue the.",
+                            "Blue the ball is."
+                        ],
+                        "correctAnswer": "The ball is blue.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which word is a color?",
+                        "options": [
+                            "Yellow",
+                            "Pencil",
+                            "Play"
+                        ],
+                        "correctAnswer": "Yellow",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 5,
+                        "text": "Tap the color you hear.",
+                        "options": [
+                            "red",
+                            "blue",
+                            "yellow"
+                        ],
+                        "correctAnswer": "blue",
+                        "audioUrl": "https://cdn.example.com/audio/blue.mp3",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Numbers 1–10",
+                "levelDescription": "Count from one to ten and use numbers with nouns.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What number comes after four?",
+                        "options": [
+                            "Five",
+                            "Three",
+                            "Six"
+                        ],
+                        "correctAnswer": "Five",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "I have ___ apples. (3)",
+                        "options": [
+                            "three",
+                            "four",
+                            "two"
+                        ],
+                        "correctAnswer": "three",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "I have two books.",
+                            "I have book two.",
+                            "Two I have books."
+                        ],
+                        "correctAnswer": "I have two books.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 9,
+                        "text": "Put the numbers in order.",
+                        "options": [
+                            "one",
+                            "two",
+                            "three"
+                        ],
+                        "correctAnswer": "one two three",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 5,
+                        "text": "Tap the number you hear.",
+                        "options": [
+                            "six",
+                            "seven",
+                            "eight"
+                        ],
+                        "correctAnswer": "seven",
+                        "audioUrl": "https://cdn.example.com/audio/seven.mp3",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "This Is My...",
+                "levelDescription": "Use 'this is' to introduce people and objects near you.",
+                "questions": [
+                    {
+                        "type": 1,
+                        "text": "___ is my bag.",
+                        "options": [
+                            "This",
+                            "That",
+                            "These"
+                        ],
+                        "correctAnswer": "This",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 2,
+                        "text": "When do we use 'this'?",
+                        "options": [
+                            "For something near",
+                            "For something far",
+                            "For many things"
+                        ],
+                        "correctAnswer": "For something near",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Select the correct sentence.",
+                        "options": [
+                            "This is my book.",
+                            "This my book is.",
+                            "Is this book my."
+                        ],
+                        "correctAnswer": "This is my book.",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 4,
+                        "text": "Complete the pattern.",
+                        "pattern": {
+                            "baseSentence": "This is my pen.",
+                            "exampleSentence": "This is my bag.",
+                            "questionSentence": "This is my ___ ."
+                        },
+                        "options": [
+                            "book",
+                            "run",
+                            "blue"
+                        ],
+                        "correctAnswer": "book",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 5,
+                        "text": "Tap the words you hear.",
+                        "options": [
+                            "this",
+                            "is",
+                            "my",
+                            "book",
+                            "pen"
+                        ],
+                        "correctAnswer": "this is my book",
+                        "audioUrl": "https://cdn.example.com/audio/this_is_my_book.mp3",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "sectionId": "section-03-daily-fun",
+        "sectionTitle": "Daily Fun",
+        "sectionDescription": "Learners talk about daily activities, routines, time, and simple actions using the present simple tense.",
+        "levels": [
+            {
+                "levelTitle": "Daily Actions",
+                "levelDescription": "Learn common daily action verbs such as eat, sleep, play, and go.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'eat' mean?",
+                        "options": [
+                            "Have food",
+                            "Go to school",
+                            "Sleep"
+                        ],
+                        "correctAnswer": "Have food",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "I ___ breakfast in the morning.",
+                        "options": [
+                            "eat",
+                            "sleep",
+                            "run"
+                        ],
+                        "correctAnswer": "eat",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "I eat lunch at noon.",
+                            "I lunch eat at noon.",
+                            "Eat I lunch noon."
+                        ],
+                        "correctAnswer": "I eat lunch at noon.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which word is an action?",
+                        "options": [
+                            "Play",
+                            "Table",
+                            "Blue"
+                        ],
+                        "correctAnswer": "Play",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 5,
+                        "text": "Tap the action you hear.",
+                        "options": [
+                            "eat",
+                            "drink",
+                            "sleep"
+                        ],
+                        "correctAnswer": "sleep",
+                        "audioUrl": "https://cdn.example.com/audio/sleep.mp3",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "My Day",
+                "levelDescription": "Describe simple daily routines using 'I' statements.",
+                "questions": [
+                    {
+                        "type": 1,
+                        "text": "I ___ up at 6 a.m.",
+                        "options": [
+                            "wake",
+                            "eat",
+                            "go"
+                        ],
+                        "correctAnswer": "wake",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 2,
+                        "text": "What does 'go to school' mean?",
+                        "options": [
+                            "Study at school",
+                            "Play at home",
+                            "Sleep at night"
+                        ],
+                        "correctAnswer": "Study at school",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Select the correct sentence.",
+                        "options": [
+                            "I go to school every day.",
+                            "I school go every day.",
+                            "Go I to school day."
+                        ],
+                        "correctAnswer": "I go to school every day.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 9,
+                        "text": "Put the activities in order.",
+                        "options": [
+                            "wake up",
+                            "go to school",
+                            "sleep"
+                        ],
+                        "correctAnswer": "wake up go to school sleep",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 5,
+                        "text": "Tap the sentence you hear.",
+                        "options": [
+                            "I wake up early.",
+                            "I eat early.",
+                            "I play early."
+                        ],
+                        "correctAnswer": "I wake up early.",
+                        "audioUrl": "https://cdn.example.com/audio/wake_up_early.mp3",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Time of Day",
+                "levelDescription": "Use basic time expressions such as morning, afternoon, and night.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "When do we eat breakfast?",
+                        "options": [
+                            "Morning",
+                            "Night",
+                            "Afternoon"
+                        ],
+                        "correctAnswer": "Morning",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "I sleep at ___.",
+                        "options": [
+                            "night",
+                            "morning",
+                            "school"
+                        ],
+                        "correctAnswer": "night",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which one is a time of day?",
+                        "options": [
+                            "Evening",
+                            "Chair",
+                            "Run"
+                        ],
+                        "correctAnswer": "Evening",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "I study in the afternoon.",
+                            "I afternoon study the.",
+                            "Study I afternoon in."
+                        ],
+                        "correctAnswer": "I study in the afternoon.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 5,
+                        "text": "Tap the time you hear.",
+                        "options": [
+                            "morning",
+                            "afternoon",
+                            "night"
+                        ],
+                        "correctAnswer": "afternoon",
+                        "audioUrl": "https://cdn.example.com/audio/afternoon.mp3",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Simple Habits",
+                "levelDescription": "Talk about habits using present simple with adverbs like always and usually.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'always' mean?",
+                        "options": [
+                            "Every time",
+                            "Sometimes",
+                            "Never"
+                        ],
+                        "correctAnswer": "Every time",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "I ___ brush my teeth in the morning.",
+                        "options": [
+                            "always",
+                            "blue",
+                            "run"
+                        ],
+                        "correctAnswer": "always",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 4,
+                        "text": "Complete the pattern.",
+                        "pattern": {
+                            "baseSentence": "I always eat breakfast.",
+                            "exampleSentence": "I always go to school.",
+                            "questionSentence": "I always ___ dinner."
+                        },
+                        "options": [
+                            "eat",
+                            "sleep",
+                            "blue"
+                        ],
+                        "correctAnswer": "eat",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Select the correct sentence.",
+                        "options": [
+                            "I usually read at night.",
+                            "I read usually at night.",
+                            "Usually I at night read."
+                        ],
+                        "correctAnswer": "I usually read at night.",
+                        "difficulty": 2,
+                        "points": 10
+                    },
+                    {
+                        "type": 7,
+                        "text": "True or False: 'Always' means sometimes.",
+                        "options": [
+                            "True",
+                            "False"
+                        ],
+                        "correctAnswer": "False",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "What I Like",
+                "levelDescription": "Express likes using simple verbs and nouns.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'like' mean?",
+                        "options": [
+                            "Enjoy",
+                            "Hate",
+                            "Sleep"
+                        ],
+                        "correctAnswer": "Enjoy",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "I like ___ soccer.",
+                        "options": [
+                            "playing",
+                            "play",
+                            "played"
+                        ],
+                        "correctAnswer": "playing",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "I like ice cream.",
+                            "I ice cream like.",
+                            "Like I ice cream."
+                        ],
+                        "correctAnswer": "I like ice cream.",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 8,
+                        "text": "Match the sentence with the meaning.",
+                        "pairs": [
+                            {
+                                "left": "I like apples.",
+                                "right": "I enjoy apples."
+                            },
+                            {
+                                "left": "I like music.",
+                                "right": "I enjoy music."
+                            }
+                        ],
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 5,
+                        "text": "Tap what you hear.",
+                        "options": [
+                            "I like pizza.",
+                            "I eat pizza.",
+                            "I play pizza."
+                        ],
+                        "correctAnswer": "I like pizza.",
+                        "audioUrl": "https://cdn.example.com/audio/i_like_pizza.mp3",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "sectionId": "section-04-at-school",
+        "sectionTitle": "At School",
+        "sectionDescription": "Learners talk about school objects, subjects, classroom actions, and simple rules using present simple sentences.",
+        "levels": [
+            {
+                "levelTitle": "School Objects",
+                "levelDescription": "Learn common classroom objects such as book, pen, desk, and bag.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'book' mean?",
+                        "options": [
+                            "A thing to read",
+                            "A place to sit",
+                            "A type of food"
+                        ],
+                        "correctAnswer": "A thing to read",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "This is my ___.",
+                        "options": [
+                            "book",
+                            "run",
+                            "eat"
+                        ],
+                        "correctAnswer": "book",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which one is a school object?",
+                        "options": [
+                            "Pen",
+                            "Apple",
+                            "Dog"
+                        ],
+                        "correctAnswer": "Pen",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "I have a bag.",
+                            "I bag have a.",
+                            "Have I a bag."
+                        ],
+                        "correctAnswer": "I have a bag.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 8,
+                        "text": "Match the object with its use.",
+                        "pairs": [
+                            {
+                                "left": "Pen",
+                                "right": "Write"
+                            },
+                            {
+                                "left": "Book",
+                                "right": "Read"
+                            }
+                        ],
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "In the Classroom",
+                "levelDescription": "Use simple sentences to describe what happens in the classroom.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'listen' mean?",
+                        "options": [
+                            "Hear carefully",
+                            "Write words",
+                            "Open a book"
+                        ],
+                        "correctAnswer": "Hear carefully",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "We ___ to the teacher.",
+                        "options": [
+                            "listen",
+                            "run",
+                            "sleep"
+                        ],
+                        "correctAnswer": "listen",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 4,
+                        "text": "Complete the pattern.",
+                        "pattern": {
+                            "baseSentence": "I read a book.",
+                            "exampleSentence": "I write a word.",
+                            "questionSentence": "I ___ to the teacher."
+                        },
+                        "options": [
+                            "listen",
+                            "sit",
+                            "pen"
+                        ],
+                        "correctAnswer": "listen",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Select the correct sentence.",
+                        "options": [
+                            "We sit in the classroom.",
+                            "We classroom in sit.",
+                            "Sit we classroom in."
+                        ],
+                        "correctAnswer": "We sit in the classroom.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 5,
+                        "text": "Tap the action you hear.",
+                        "options": [
+                            "listen",
+                            "write",
+                            "read"
+                        ],
+                        "correctAnswer": "write",
+                        "audioUrl": "https://cdn.example.com/audio/write.mp3",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "School Subjects",
+                "levelDescription": "Identify basic school subjects and talk about what you study.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What is 'Math'?",
+                        "options": [
+                            "A school subject",
+                            "A sport",
+                            "A toy"
+                        ],
+                        "correctAnswer": "A school subject",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which one is a school subject?",
+                        "options": [
+                            "English",
+                            "Chair",
+                            "Milk"
+                        ],
+                        "correctAnswer": "English",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "I study ___ at school.",
+                        "options": [
+                            "Math",
+                            "Run",
+                            "Blue"
+                        ],
+                        "correctAnswer": "Math",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "I like English.",
+                            "I English like.",
+                            "Like I English."
+                        ],
+                        "correctAnswer": "I like English.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 7,
+                        "text": "True or False: Math is a school subject.",
+                        "options": [
+                            "True",
+                            "False"
+                        ],
+                        "correctAnswer": "True",
+                        "difficulty": 0,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Classroom Rules",
+                "levelDescription": "Learn simple classroom rules using positive statements.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'be quiet' mean?",
+                        "options": [
+                            "Do not talk",
+                            "Run fast",
+                            "Open a book"
+                        ],
+                        "correctAnswer": "Do not talk",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which sentence shows a classroom rule?",
+                        "options": [
+                            "Be quiet in class.",
+                            "I eat an apple.",
+                            "The book is blue."
+                        ],
+                        "correctAnswer": "Be quiet in class.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "Please ___ your hand.",
+                        "options": [
+                            "raise",
+                            "run",
+                            "sleep"
+                        ],
+                        "correctAnswer": "raise",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Select the correct sentence.",
+                        "options": [
+                            "We listen to the teacher.",
+                            "We teacher listen the.",
+                            "Listen we teacher to."
+                        ],
+                        "correctAnswer": "We listen to the teacher.",
+                        "difficulty": 2,
+                        "points": 10
+                    },
+                    {
+                        "type": 5,
+                        "text": "Tap the rule you hear.",
+                        "options": [
+                            "Be quiet.",
+                            "Sit down.",
+                            "Open the door."
+                        ],
+                        "correctAnswer": "Be quiet.",
+                        "audioUrl": "https://cdn.example.com/audio/be_quiet.mp3",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "My Favorite Subject",
+                "levelDescription": "Talk about favorite school subjects using simple present sentences.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'favorite' mean?",
+                        "options": [
+                            "You like it the most",
+                            "You do not like it",
+                            "You never study it"
+                        ],
+                        "correctAnswer": "You like it the most",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "My favorite subject ___ English.",
+                        "options": [
+                            "is",
+                            "are",
+                            "am"
+                        ],
+                        "correctAnswer": "is",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "My favorite subject is Math.",
+                            "My subject favorite Math is.",
+                            "Favorite my subject is Math."
+                        ],
+                        "correctAnswer": "My favorite subject is Math.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 8,
+                        "text": "Match the subject with the sentence.",
+                        "pairs": [
+                            {
+                                "left": "English",
+                                "right": "I like reading and speaking."
+                            },
+                            {
+                                "left": "Math",
+                                "right": "I like numbers."
+                            }
+                        ],
+                        "difficulty": 2,
+                        "points": 10
+                    },
+                    {
+                        "type": 7,
+                        "text": "True or False: Favorite means you like it the most.",
+                        "options": [
+                            "True",
+                            "False"
+                        ],
+                        "correctAnswer": "True",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "sectionId": "section-05-my-family",
+        "sectionTitle": "My Family",
+        "sectionDescription": "Learners talk about family members, relationships, and simple descriptions using the present simple tense.",
+        "levels": [
+            {
+                "levelTitle": "Family Members",
+                "levelDescription": "Learn basic family words such as mother, father, brother, and sister.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'mother' mean?",
+                        "options": [
+                            "Your female parent",
+                            "Your brother",
+                            "Your teacher"
+                        ],
+                        "correctAnswer": "Your female parent",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "This is my ___.",
+                        "options": [
+                            "father",
+                            "run",
+                            "blue"
+                        ],
+                        "correctAnswer": "father",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which one is a family member?",
+                        "options": [
+                            "Sister",
+                            "Chair",
+                            "Apple"
+                        ],
+                        "correctAnswer": "Sister",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "She is my mother.",
+                            "She my mother is.",
+                            "Is she my mother."
+                        ],
+                        "correctAnswer": "She is my mother.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 8,
+                        "text": "Match the word with the meaning.",
+                        "pairs": [
+                            {
+                                "left": "Father",
+                                "right": "Male parent"
+                            },
+                            {
+                                "left": "Sister",
+                                "right": "Female sibling"
+                            }
+                        ],
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Who Is He / She?",
+                "levelDescription": "Use 'he' and 'she' to talk about family members.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "Who do we use 'she' for?",
+                        "options": [
+                            "A female",
+                            "A male",
+                            "An object"
+                        ],
+                        "correctAnswer": "A female",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "___ is my sister.",
+                        "options": [
+                            "She",
+                            "He",
+                            "They"
+                        ],
+                        "correctAnswer": "She",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 4,
+                        "text": "Complete the pattern.",
+                        "pattern": {
+                            "baseSentence": "He is my father.",
+                            "exampleSentence": "She is my mother.",
+                            "questionSentence": "___ is my sister."
+                        },
+                        "options": [
+                            "She",
+                            "He",
+                            "It"
+                        ],
+                        "correctAnswer": "She",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Select the correct sentence.",
+                        "options": [
+                            "He is my brother.",
+                            "He my brother is.",
+                            "Is he my brother."
+                        ],
+                        "correctAnswer": "He is my brother.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 7,
+                        "text": "True or False: We use 'he' for a girl.",
+                        "options": [
+                            "True",
+                            "False"
+                        ],
+                        "correctAnswer": "False",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "My Family Size",
+                "levelDescription": "Talk about how many people are in your family.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'family' mean?",
+                        "options": [
+                            "People related to you",
+                            "Your classroom",
+                            "Your school"
+                        ],
+                        "correctAnswer": "People related to you",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "I have ___ people in my family.",
+                        "options": [
+                            "four",
+                            "blue",
+                            "run"
+                        ],
+                        "correctAnswer": "four",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which one is a number?",
+                        "options": [
+                            "Three",
+                            "Mother",
+                            "Big"
+                        ],
+                        "correctAnswer": "Three",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "I have five people in my family.",
+                            "I people five have my family.",
+                            "Have I five people family."
+                        ],
+                        "correctAnswer": "I have five people in my family.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 9,
+                        "text": "Put the family members in order.",
+                        "options": [
+                            "father",
+                            "mother",
+                            "me"
+                        ],
+                        "correctAnswer": "father mother me",
+                        "difficulty": 2,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Family Descriptions",
+                "levelDescription": "Describe family members using simple adjectives.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'kind' mean?",
+                        "options": [
+                            "Nice and caring",
+                            "Very tall",
+                            "Very fast"
+                        ],
+                        "correctAnswer": "Nice and caring",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "My mother is very ___.",
+                        "options": [
+                            "kind",
+                            "run",
+                            "pen"
+                        ],
+                        "correctAnswer": "kind",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which word describes a person?",
+                        "options": [
+                            "Friendly",
+                            "Table",
+                            "Milk"
+                        ],
+                        "correctAnswer": "Friendly",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Select the correct sentence.",
+                        "options": [
+                            "My father is tall.",
+                            "My father tall is.",
+                            "Is my father tall."
+                        ],
+                        "correctAnswer": "My father is tall.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 5,
+                        "text": "Tap the sentence you hear.",
+                        "options": [
+                            "My sister is kind.",
+                            "My sister is tall.",
+                            "My sister is young."
+                        ],
+                        "correctAnswer": "My sister is kind.",
+                        "audioUrl": "https://cdn.example.com/audio/my_sister_is_kind.mp3",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Talking About My Family",
+                "levelDescription": "Make short statements about your family using simple present sentences.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'parents' mean?",
+                        "options": [
+                            "Mother and father",
+                            "Brothers only",
+                            "Friends"
+                        ],
+                        "correctAnswer": "Mother and father",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "My parents ___ very kind.",
+                        "options": [
+                            "are",
+                            "is",
+                            "am"
+                        ],
+                        "correctAnswer": "are",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 4,
+                        "text": "Complete the pattern.",
+                        "pattern": {
+                            "baseSentence": "My mother is kind.",
+                            "exampleSentence": "My father is tall.",
+                            "questionSentence": "My parents ___ friendly."
+                        },
+                        "options": [
+                            "are",
+                            "is",
+                            "am"
+                        ],
+                        "correctAnswer": "are",
+                        "difficulty": 2,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "I love my family.",
+                            "I my family love.",
+                            "Love I family my."
+                        ],
+                        "correctAnswer": "I love my family.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 7,
+                        "text": "True or False: 'Parents' means mother and father.",
+                        "options": [
+                            "True",
+                            "False"
+                        ],
+                        "correctAnswer": "True",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "sectionId": "section-06-my-home",
+        "sectionTitle": "My Home",
+        "sectionDescription": "Learners talk about their home, rooms, furniture, and simple activities at home using present simple sentences.",
+        "levels": [
+            {
+                "levelTitle": "Rooms in My House",
+                "levelDescription": "Learn the names of common rooms such as bedroom, kitchen, and living room.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'bedroom' mean?",
+                        "options": [
+                            "A room for sleeping",
+                            "A room for cooking",
+                            "A room for studying"
+                        ],
+                        "correctAnswer": "A room for sleeping",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "I sleep in the ___.",
+                        "options": [
+                            "bedroom",
+                            "kitchen",
+                            "bathroom"
+                        ],
+                        "correctAnswer": "bedroom",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which one is a room?",
+                        "options": [
+                            "Kitchen",
+                            "Chair",
+                            "Pen"
+                        ],
+                        "correctAnswer": "Kitchen",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "This is my living room.",
+                            "This my is living room.",
+                            "Is this my living room."
+                        ],
+                        "correctAnswer": "This is my living room.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 8,
+                        "text": "Match the room with its use.",
+                        "pairs": [
+                            {
+                                "left": "Kitchen",
+                                "right": "Cook food"
+                            },
+                            {
+                                "left": "Bathroom",
+                                "right": "Take a shower"
+                            }
+                        ],
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Furniture",
+                "levelDescription": "Identify common furniture items found at home.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'chair' mean?",
+                        "options": [
+                            "Something to sit on",
+                            "Something to eat",
+                            "Something to wear"
+                        ],
+                        "correctAnswer": "Something to sit on",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "I sit on a ___.",
+                        "options": [
+                            "chair",
+                            "bedroom",
+                            "kitchen"
+                        ],
+                        "correctAnswer": "chair",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which one is furniture?",
+                        "options": [
+                            "Table",
+                            "Apple",
+                            "Teacher"
+                        ],
+                        "correctAnswer": "Table",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Select the correct sentence.",
+                        "options": [
+                            "The table is big.",
+                            "The big is table.",
+                            "Is the table big."
+                        ],
+                        "correctAnswer": "The table is big.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 5,
+                        "text": "Tap the furniture you hear.",
+                        "options": [
+                            "chair",
+                            "bed",
+                            "door"
+                        ],
+                        "correctAnswer": "bed",
+                        "audioUrl": "https://cdn.example.com/audio/bed.mp3",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "At Home Activities",
+                "levelDescription": "Talk about simple activities you do at home.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'cook' mean?",
+                        "options": [
+                            "Make food",
+                            "Read a book",
+                            "Sleep"
+                        ],
+                        "correctAnswer": "Make food",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "I ___ dinner at home.",
+                        "options": [
+                            "cook",
+                            "run",
+                            "write"
+                        ],
+                        "correctAnswer": "cook",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 4,
+                        "text": "Complete the pattern.",
+                        "pattern": {
+                            "baseSentence": "I eat at home.",
+                            "exampleSentence": "I cook at home.",
+                            "questionSentence": "I ___ TV at home."
+                        },
+                        "options": [
+                            "watch",
+                            "sleep",
+                            "book"
+                        ],
+                        "correctAnswer": "watch",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "I watch TV at home.",
+                            "I TV watch at home.",
+                            "Watch I TV at home."
+                        ],
+                        "correctAnswer": "I watch TV at home.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 7,
+                        "text": "True or False: We cook food at home.",
+                        "options": [
+                            "True",
+                            "False"
+                        ],
+                        "correctAnswer": "True",
+                        "difficulty": 0,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Describing My Home",
+                "levelDescription": "Describe your home using simple adjectives.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'big' mean?",
+                        "options": [
+                            "Large",
+                            "Small",
+                            "Fast"
+                        ],
+                        "correctAnswer": "Large",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "My house is ___.",
+                        "options": [
+                            "big",
+                            "run",
+                            "eat"
+                        ],
+                        "correctAnswer": "big",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which word describes a house?",
+                        "options": [
+                            "Small",
+                            "Sleep",
+                            "Pen"
+                        ],
+                        "correctAnswer": "Small",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Select the correct sentence.",
+                        "options": [
+                            "My home is clean.",
+                            "My is home clean.",
+                            "Is my home clean."
+                        ],
+                        "correctAnswer": "My home is clean.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 8,
+                        "text": "Match the word with its meaning.",
+                        "pairs": [
+                            {
+                                "left": "Big",
+                                "right": "Large"
+                            },
+                            {
+                                "left": "Small",
+                                "right": "Not big"
+                            }
+                        ],
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "My Favorite Room",
+                "levelDescription": "Talk about your favorite room using simple present sentences.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'favorite room' mean?",
+                        "options": [
+                            "The room you like the most",
+                            "The smallest room",
+                            "The newest room"
+                        ],
+                        "correctAnswer": "The room you like the most",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "My favorite room ___ the bedroom.",
+                        "options": [
+                            "is",
+                            "are",
+                            "am"
+                        ],
+                        "correctAnswer": "is",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 4,
+                        "text": "Complete the pattern.",
+                        "pattern": {
+                            "baseSentence": "My favorite room is the kitchen.",
+                            "exampleSentence": "My favorite room is the bedroom.",
+                            "questionSentence": "My favorite room ___ the living room."
+                        },
+                        "options": [
+                            "is",
+                            "are",
+                            "am"
+                        ],
+                        "correctAnswer": "is",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "I like my bedroom.",
+                            "I my bedroom like.",
+                            "Like I bedroom my."
+                        ],
+                        "correctAnswer": "I like my bedroom.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 7,
+                        "text": "True or False: Favorite means you like it the most.",
+                        "options": [
+                            "True",
+                            "False"
+                        ],
+                        "correctAnswer": "True",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "sectionId": "section-07-food-and-drinks",
+        "sectionTitle": "Food and Drinks",
+        "sectionDescription": "Learners talk about common food, drinks, likes, and simple eating habits using present simple sentences.",
+        "levels": [
+            {
+                "levelTitle": "Common Foods",
+                "levelDescription": "Learn the names of common foods such as rice, bread, and noodles.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'rice' mean?",
+                        "options": [
+                            "A type of food",
+                            "A drink",
+                            "A place"
+                        ],
+                        "correctAnswer": "A type of food",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "I eat ___ every day.",
+                        "options": [
+                            "rice",
+                            "water",
+                            "sleep"
+                        ],
+                        "correctAnswer": "rice",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which one is food?",
+                        "options": [
+                            "Bread",
+                            "Chair",
+                            "Book"
+                        ],
+                        "correctAnswer": "Bread",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "I like noodles.",
+                            "I noodles like.",
+                            "Like I noodles."
+                        ],
+                        "correctAnswer": "I like noodles.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 8,
+                        "text": "Match the food with the group.",
+                        "pairs": [
+                            {
+                                "left": "Apple",
+                                "right": "Fruit"
+                            },
+                            {
+                                "left": "Bread",
+                                "right": "Food"
+                            }
+                        ],
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Drinks",
+                "levelDescription": "Identify common drinks and talk about what you drink.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'water' mean?",
+                        "options": [
+                            "A drink",
+                            "A food",
+                            "A color"
+                        ],
+                        "correctAnswer": "A drink",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "I drink ___.",
+                        "options": [
+                            "water",
+                            "rice",
+                            "book"
+                        ],
+                        "correctAnswer": "water",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which one is a drink?",
+                        "options": [
+                            "Milk",
+                            "Bread",
+                            "Pen"
+                        ],
+                        "correctAnswer": "Milk",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Select the correct sentence.",
+                        "options": [
+                            "I drink milk every day.",
+                            "I milk drink every day.",
+                            "Drink I milk every day."
+                        ],
+                        "correctAnswer": "I drink milk every day.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 7,
+                        "text": "True or False: Milk is a drink.",
+                        "options": [
+                            "True",
+                            "False"
+                        ],
+                        "correctAnswer": "True",
+                        "difficulty": 0,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Likes and Dislikes",
+                "levelDescription": "Express likes and dislikes about food and drinks.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'like' mean?",
+                        "options": [
+                            "Enjoy",
+                            "Hate",
+                            "Cook"
+                        ],
+                        "correctAnswer": "Enjoy",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "I ___ apples.",
+                        "options": [
+                            "like",
+                            "drink",
+                            "sleep"
+                        ],
+                        "correctAnswer": "like",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which sentence shows liking?",
+                        "options": [
+                            "I like pizza.",
+                            "I cook pizza.",
+                            "I see pizza."
+                        ],
+                        "correctAnswer": "I like pizza.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "I do not like coffee.",
+                            "I not like do coffee.",
+                            "Not I like coffee."
+                        ],
+                        "correctAnswer": "I do not like coffee.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 7,
+                        "text": "True or False: 'I like rice' means you enjoy rice.",
+                        "options": [
+                            "True",
+                            "False"
+                        ],
+                        "correctAnswer": "True",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Meals of the Day",
+                "levelDescription": "Learn meal names such as breakfast, lunch, and dinner.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'breakfast' mean?",
+                        "options": [
+                            "The first meal of the day",
+                            "The last meal of the day",
+                            "A snack"
+                        ],
+                        "correctAnswer": "The first meal of the day",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "I eat ___ in the morning.",
+                        "options": [
+                            "breakfast",
+                            "dinner",
+                            "lunch"
+                        ],
+                        "correctAnswer": "breakfast",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which one is a meal?",
+                        "options": [
+                            "Lunch",
+                            "Milk",
+                            "Apple"
+                        ],
+                        "correctAnswer": "Lunch",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 9,
+                        "text": "Put the meals in order.",
+                        "options": [
+                            "breakfast",
+                            "lunch",
+                            "dinner"
+                        ],
+                        "correctAnswer": "breakfast lunch dinner",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Select the correct sentence.",
+                        "options": [
+                            "I eat dinner at night.",
+                            "I night eat dinner.",
+                            "Eat I dinner night."
+                        ],
+                        "correctAnswer": "I eat dinner at night.",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Healthy Eating",
+                "levelDescription": "Talk about healthy food using simple sentences.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'healthy' mean?",
+                        "options": [
+                            "Good for your body",
+                            "Very sweet",
+                            "Very expensive"
+                        ],
+                        "correctAnswer": "Good for your body",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "Vegetables are ___.",
+                        "options": [
+                            "healthy",
+                            "sleep",
+                            "run"
+                        ],
+                        "correctAnswer": "healthy",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which food is healthy?",
+                        "options": [
+                            "Apple",
+                            "Candy",
+                            "Cake"
+                        ],
+                        "correctAnswer": "Apple",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "I eat healthy food.",
+                            "I healthy eat food.",
+                            "Eat I food healthy."
+                        ],
+                        "correctAnswer": "I eat healthy food.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 7,
+                        "text": "True or False: Vegetables are healthy.",
+                        "options": [
+                            "True",
+                            "False"
+                        ],
+                        "correctAnswer": "True",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "sectionId": "section-08-weather-and-clothes",
+        "sectionTitle": "Weather and Clothes",
+        "sectionDescription": "Learners talk about basic weather conditions and choose suitable clothes using simple present sentences.",
+        "levels": [
+            {
+                "levelTitle": "Weather Words",
+                "levelDescription": "Learn basic weather words such as sunny, rainy, and cold.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'sunny' mean?",
+                        "options": [
+                            "With a lot of sun",
+                            "With a lot of rain",
+                            "Very cold"
+                        ],
+                        "correctAnswer": "With a lot of sun",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "Today is ___.",
+                        "options": [
+                            "sunny",
+                            "shirt",
+                            "eat"
+                        ],
+                        "correctAnswer": "sunny",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which one is weather?",
+                        "options": [
+                            "Rainy",
+                            "Table",
+                            "Book"
+                        ],
+                        "correctAnswer": "Rainy",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "It is cold today.",
+                            "It cold is today.",
+                            "Cold it today is."
+                        ],
+                        "correctAnswer": "It is cold today.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 7,
+                        "text": "True or False: Rainy means there is rain.",
+                        "options": [
+                            "True",
+                            "False"
+                        ],
+                        "correctAnswer": "True",
+                        "difficulty": 0,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Hot or Cold",
+                "levelDescription": "Talk about temperature using simple adjectives.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'hot' mean?",
+                        "options": [
+                            "Very warm",
+                            "Very cold",
+                            "Very wet"
+                        ],
+                        "correctAnswer": "Very warm",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "It is ___ in summer.",
+                        "options": [
+                            "hot",
+                            "cold",
+                            "rainy"
+                        ],
+                        "correctAnswer": "hot",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which word means not hot?",
+                        "options": [
+                            "Cold",
+                            "Sunny",
+                            "Dry"
+                        ],
+                        "correctAnswer": "Cold",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Select the correct sentence.",
+                        "options": [
+                            "It is very cold today.",
+                            "It very is cold today.",
+                            "Very it cold is today."
+                        ],
+                        "correctAnswer": "It is very cold today.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 5,
+                        "text": "Tap the word you hear.",
+                        "options": [
+                            "hot",
+                            "cold",
+                            "rainy"
+                        ],
+                        "correctAnswer": "cold",
+                        "audioUrl": "https://cdn.example.com/audio/cold.mp3",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Clothes",
+                "levelDescription": "Learn common clothing items such as shirt, pants, and jacket.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'jacket' mean?",
+                        "options": [
+                            "A piece of clothing",
+                            "A type of food",
+                            "A room"
+                        ],
+                        "correctAnswer": "A piece of clothing",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "I wear a ___.",
+                        "options": [
+                            "shirt",
+                            "sunny",
+                            "eat"
+                        ],
+                        "correctAnswer": "shirt",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which one is clothes?",
+                        "options": [
+                            "Pants",
+                            "Apple",
+                            "Chair"
+                        ],
+                        "correctAnswer": "Pants",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "I wear a jacket.",
+                            "I jacket wear a.",
+                            "Wear I jacket a."
+                        ],
+                        "correctAnswer": "I wear a jacket.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 8,
+                        "text": "Match the clothes with the body part.",
+                        "pairs": [
+                            {
+                                "left": "Hat",
+                                "right": "Head"
+                            },
+                            {
+                                "left": "Shoes",
+                                "right": "Feet"
+                            }
+                        ],
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "What to Wear",
+                "levelDescription": "Choose suitable clothes for different weather.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What do you wear when it is cold?",
+                        "options": [
+                            "A jacket",
+                            "A T-shirt",
+                            "Shorts"
+                        ],
+                        "correctAnswer": "A jacket",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which clothes are good for hot weather?",
+                        "options": [
+                            "T-shirt",
+                            "Jacket",
+                            "Sweater"
+                        ],
+                        "correctAnswer": "T-shirt",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "It is rainy, so I wear a ___.",
+                        "options": [
+                            "raincoat",
+                            "hat",
+                            "shirt"
+                        ],
+                        "correctAnswer": "raincoat",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Select the correct sentence.",
+                        "options": [
+                            "I wear a jacket when it is cold.",
+                            "I wear when cold it is jacket.",
+                            "Wear I jacket cold when."
+                        ],
+                        "correctAnswer": "I wear a jacket when it is cold.",
+                        "difficulty": 2,
+                        "points": 10
+                    },
+                    {
+                        "type": 7,
+                        "text": "True or False: We wear a raincoat when it is rainy.",
+                        "options": [
+                            "True",
+                            "False"
+                        ],
+                        "correctAnswer": "True",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "My Favorite Weather",
+                "levelDescription": "Talk about your favorite weather using simple present sentences.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'favorite weather' mean?",
+                        "options": [
+                            "The weather you like the most",
+                            "The weather today",
+                            "The weather yesterday"
+                        ],
+                        "correctAnswer": "The weather you like the most",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "My favorite weather ___ sunny.",
+                        "options": [
+                            "is",
+                            "are",
+                            "am"
+                        ],
+                        "correctAnswer": "is",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 4,
+                        "text": "Complete the pattern.",
+                        "pattern": {
+                            "baseSentence": "My favorite weather is sunny.",
+                            "exampleSentence": "My favorite weather is rainy.",
+                            "questionSentence": "My favorite weather ___ cold."
+                        },
+                        "options": [
+                            "is",
+                            "are",
+                            "am"
+                        ],
+                        "correctAnswer": "is",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "I like sunny weather.",
+                            "I sunny weather like.",
+                            "Like I weather sunny."
+                        ],
+                        "correctAnswer": "I like sunny weather.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 7,
+                        "text": "True or False: Favorite means you like it the most.",
+                        "options": [
+                            "True",
+                            "False"
+                        ],
+                        "correctAnswer": "True",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "sectionId": "section-09-places-around-me",
+        "sectionTitle": "Places Around Me",
+        "sectionDescription": "Learners identify common places and describe their location using simple sentences and prepositions.",
+        "levels": [
+            {
+                "levelTitle": "Common Places",
+                "levelDescription": "Learn names of common places such as school, park, and hospital.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'school' mean?",
+                        "options": [
+                            "A place to learn",
+                            "A place to eat",
+                            "A place to sleep"
+                        ],
+                        "correctAnswer": "A place to learn",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which one is a place?",
+                        "options": [
+                            "Park",
+                            "Run",
+                            "Happy"
+                        ],
+                        "correctAnswer": "Park",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "I go to ___.",
+                        "options": [
+                            "school",
+                            "eat",
+                            "big"
+                        ],
+                        "correctAnswer": "school",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "The hospital is big.",
+                            "Hospital the is big.",
+                            "Is big the hospital."
+                        ],
+                        "correctAnswer": "The hospital is big.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 7,
+                        "text": "True or False: A park is a place.",
+                        "options": [
+                            "True",
+                            "False"
+                        ],
+                        "correctAnswer": "True",
+                        "difficulty": 0,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Near and Far",
+                "levelDescription": "Describe distance using simple adjectives.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'near' mean?",
+                        "options": [
+                            "Close",
+                            "Very far",
+                            "Very big"
+                        ],
+                        "correctAnswer": "Close",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "My house is ___ my school.",
+                        "options": [
+                            "near",
+                            "eat",
+                            "run"
+                        ],
+                        "correctAnswer": "near",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which word means not near?",
+                        "options": [
+                            "Far",
+                            "Close",
+                            "Next"
+                        ],
+                        "correctAnswer": "Far",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Select the correct sentence.",
+                        "options": [
+                            "The park is far.",
+                            "Park the is far.",
+                            "Is far the park."
+                        ],
+                        "correctAnswer": "The park is far.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 5,
+                        "text": "Tap the word you hear.",
+                        "options": [
+                            "near",
+                            "far",
+                            "park"
+                        ],
+                        "correctAnswer": "near",
+                        "audioUrl": "https://cdn.example.com/audio/near.mp3",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "In, On, At",
+                "levelDescription": "Use basic prepositions to describe location.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "Which word shows location?",
+                        "options": [
+                            "In",
+                            "Eat",
+                            "Big"
+                        ],
+                        "correctAnswer": "In",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "I am ___ school.",
+                        "options": [
+                            "at",
+                            "on",
+                            "run"
+                        ],
+                        "correctAnswer": "at",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which sentence is correct?",
+                        "options": [
+                            "She is at the park.",
+                            "She is park at the.",
+                            "At she is park."
+                        ],
+                        "correctAnswer": "She is at the park.",
+                        "difficulty": 2,
+                        "points": 10
+                    },
+                    {
+                        "type": 4,
+                        "text": "Complete the pattern.",
+                        "pattern": {
+                            "baseSentence": "He is at school.",
+                            "exampleSentence": "She is at home.",
+                            "questionSentence": "I am ___ the park."
+                        },
+                        "options": [
+                            "at",
+                            "in",
+                            "on"
+                        ],
+                        "correctAnswer": "at",
+                        "difficulty": 2,
+                        "points": 10
+                    },
+                    {
+                        "type": 7,
+                        "text": "True or False: We use 'at' for places.",
+                        "options": [
+                            "True",
+                            "False"
+                        ],
+                        "correctAnswer": "True",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "My Favorite Place",
+                "levelDescription": "Talk about your favorite place using simple present sentences.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'favorite place' mean?",
+                        "options": [
+                            "The place you like the most",
+                            "The place near your house",
+                            "The place you go today"
+                        ],
+                        "correctAnswer": "The place you like the most",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "My favorite place ___ the park.",
+                        "options": [
+                            "is",
+                            "are",
+                            "am"
+                        ],
+                        "correctAnswer": "is",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "I like the library.",
+                            "I the library like.",
+                            "Like I library the."
+                        ],
+                        "correctAnswer": "I like the library.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which place do students study?",
+                        "options": [
+                            "School",
+                            "Market",
+                            "Park"
+                        ],
+                        "correctAnswer": "School",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 7,
+                        "text": "True or False: A hospital is a place.",
+                        "options": [
+                            "True",
+                            "False"
+                        ],
+                        "correctAnswer": "True",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Asking About Places",
+                "levelDescription": "Ask and answer simple questions about places.",
+                "questions": [
+                    {
+                        "type": 6,
+                        "text": "Which question is correct?",
+                        "options": [
+                            "Where is the park?",
+                            "Where the park is?",
+                            "Where is park the?"
+                        ],
+                        "correctAnswer": "Where is the park?",
+                        "difficulty": 2,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "The park is ___ my house.",
+                        "options": [
+                            "near",
+                            "eat",
+                            "big"
+                        ],
+                        "correctAnswer": "near",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 4,
+                        "text": "Complete the pattern.",
+                        "pattern": {
+                            "baseSentence": "Where is the school?",
+                            "exampleSentence": "Where is the park?",
+                            "questionSentence": "Where is the ___?"
+                        },
+                        "options": [
+                            "hospital",
+                            "run",
+                            "happy"
+                        ],
+                        "correctAnswer": "hospital",
+                        "difficulty": 2,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct answer.",
+                        "options": [
+                            "It is near my house.",
+                            "Near it my house is.",
+                            "It near is my house."
+                        ],
+                        "correctAnswer": "It is near my house.",
+                        "difficulty": 2,
+                        "points": 10
+                    },
+                    {
+                        "type": 7,
+                        "text": "True or False: We use 'Where' to ask about places.",
+                        "options": [
+                            "True",
+                            "False"
+                        ],
+                        "correctAnswer": "True",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "sectionId": "section-10-daily-routines",
+        "sectionTitle": "Daily Routines",
+        "sectionDescription": "Learners describe daily activities using simple present tense and basic time expressions.",
+        "levels": [
+            {
+                "levelTitle": "Everyday Actions",
+                "levelDescription": "Learn common daily actions such as wake up, eat, study, and sleep.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'wake up' mean?",
+                        "options": [
+                            "Stop sleeping",
+                            "Start eating",
+                            "Go to school"
+                        ],
+                        "correctAnswer": "Stop sleeping",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which one is a daily action?",
+                        "options": [
+                            "Sleep",
+                            "Blue",
+                            "Table"
+                        ],
+                        "correctAnswer": "Sleep",
+                        "difficulty": 0,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "I ___ breakfast in the morning.",
+                        "options": [
+                            "eat",
+                            "eats",
+                            "eating"
+                        ],
+                        "correctAnswer": "eat",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "I go to school every day.",
+                            "I goes to school every day.",
+                            "I going to school every day."
+                        ],
+                        "correctAnswer": "I go to school every day.",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 7,
+                        "text": "True or False: 'Sleep' is a daily activity.",
+                        "options": [
+                            "True",
+                            "False"
+                        ],
+                        "correctAnswer": "True",
+                        "difficulty": 0,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Morning Routine",
+                "levelDescription": "Talk about activities you do in the morning.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'brush your teeth' mean?",
+                        "options": [
+                            "Clean your teeth",
+                            "Wash your hands",
+                            "Eat breakfast"
+                        ],
+                        "correctAnswer": "Clean your teeth",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "I ___ my teeth every morning.",
+                        "options": [
+                            "brush",
+                            "brushes",
+                            "brushing"
+                        ],
+                        "correctAnswer": "brush",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which activity is done in the morning?",
+                        "options": [
+                            "Wake up",
+                            "Go to bed",
+                            "Sleep late"
+                        ],
+                        "correctAnswer": "Wake up",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 4,
+                        "text": "Complete the pattern.",
+                        "pattern": {
+                            "baseSentence": "I wake up at 6 a.m.",
+                            "exampleSentence": "I eat breakfast at 7 a.m.",
+                            "questionSentence": "I ___ to school at 7:30 a.m."
+                        },
+                        "options": [
+                            "go",
+                            "goes",
+                            "going"
+                        ],
+                        "correctAnswer": "go",
+                        "difficulty": 2,
+                        "points": 10
+                    },
+                    {
+                        "type": 5,
+                        "text": "Tap the action you hear.",
+                        "options": [
+                            "wake",
+                            "sleep",
+                            "run"
+                        ],
+                        "correctAnswer": "wake",
+                        "audioUrl": "https://cdn.example.com/audio/wake_up.mp3",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Afternoon and Evening",
+                "levelDescription": "Describe what you do in the afternoon and evening.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "What does 'do homework' mean?",
+                        "options": [
+                            "Study at home",
+                            "Play games",
+                            "Eat dinner"
+                        ],
+                        "correctAnswer": "Study at home",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "I ___ homework in the afternoon.",
+                        "options": [
+                            "do",
+                            "does",
+                            "doing"
+                        ],
+                        "correctAnswer": "do",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Select the correct sentence.",
+                        "options": [
+                            "She does homework in the evening.",
+                            "She do homework in the evening.",
+                            "She doing homework in the evening."
+                        ],
+                        "correctAnswer": "She does homework in the evening.",
+                        "difficulty": 2,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which activity is usually in the evening?",
+                        "options": [
+                            "Eat dinner",
+                            "Wake up",
+                            "Go to school"
+                        ],
+                        "correctAnswer": "Eat dinner",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 7,
+                        "text": "True or False: People usually sleep in the afternoon.",
+                        "options": [
+                            "True",
+                            "False"
+                        ],
+                        "correctAnswer": "False",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Time Words",
+                "levelDescription": "Use simple time words such as morning, afternoon, evening, and night.",
+                "questions": [
+                    {
+                        "type": 2,
+                        "text": "When is 'morning'?",
+                        "options": [
+                            "Before lunch",
+                            "After dinner",
+                            "At midnight"
+                        ],
+                        "correctAnswer": "Before lunch",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 6,
+                        "text": "Which word means 'after dinner'?",
+                        "options": [
+                            "Evening",
+                            "Morning",
+                            "Noon"
+                        ],
+                        "correctAnswer": "Evening",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "I sleep at ___.",
+                        "options": [
+                            "night",
+                            "morning",
+                            "school"
+                        ],
+                        "correctAnswer": "night",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 4,
+                        "text": "Complete the pattern.",
+                        "pattern": {
+                            "baseSentence": "I study in the morning.",
+                            "exampleSentence": "I play in the afternoon.",
+                            "questionSentence": "I sleep at ___."
+                        },
+                        "options": [
+                            "night",
+                            "school",
+                            "eat"
+                        ],
+                        "correctAnswer": "night",
+                        "difficulty": 2,
+                        "points": 10
+                    },
+                    {
+                        "type": 7,
+                        "text": "True or False: 'Night' is after evening.",
+                        "options": [
+                            "True",
+                            "False"
+                        ],
+                        "correctAnswer": "True",
+                        "difficulty": 1,
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "levelTitle": "Talking About Your Day",
+                "levelDescription": "Describe your daily routine using simple present tense.",
+                "questions": [
+                    {
+                        "type": 6,
+                        "text": "Which sentence talks about a daily routine?",
+                        "options": [
+                            "I wake up at 6 a.m.",
+                            "I am waking up now.",
+                            "I woke up yesterday."
+                        ],
+                        "correctAnswer": "I wake up at 6 a.m.",
+                        "difficulty": 2,
+                        "points": 10
+                    },
+                    {
+                        "type": 1,
+                        "text": "I ___ to school every day.",
+                        "options": [
+                            "go",
+                            "goes",
+                            "going"
+                        ],
+                        "correctAnswer": "go",
+                        "difficulty": 1,
+                        "points": 10
+                    },
+                    {
+                        "type": 3,
+                        "text": "Choose the correct sentence.",
+                        "options": [
+                            "I eat dinner at night.",
+                            "I eats dinner at night.",
+                            "I eating dinner at night."
+                        ],
+                        "correctAnswer": "I eat dinner at night.",
+                        "difficulty": 2,
+                        "points": 10
+                    },
+                    {
+                        "type": 8,
+                        "text": "Match the time with the activity.",
+                        "pairs": {
+                            "Morning": "Wake up",
+                            "Afternoon": "Do homework",
+                            "Night": "Sleep"
+                        },
+                        "difficulty": 2,
+                        "points": 10
+                    },
+                    {
+                        "type": 7,
+                        "text": "True or False: Daily routines use the simple present tense.",
+                        "options": [
+                            "True",
+                            "False"
+                        ],
+                        "correctAnswer": "True",
+                        "difficulty": 2,
+                        "points": 10
+                    }
+                ]
+            }
+        ]
+    }
+]
